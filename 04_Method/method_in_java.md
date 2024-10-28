@@ -38,7 +38,7 @@ Cú pháp của một phương thức như sau:
 
 Trong đó:  
 - `modifier`: Là phạm vi truy cập của phương thức (Các bạn có thể xem chi tiết hơn trong các bài sau)  
-- `returnType`: Kiểu dữ liệu trả về, phương thức có thể trả về một giá trị có kiểu dữ liệu nguyên thuỷ như (int, float, char, ...) hoặc kiểu dữ liệu tham chiếu (String,...). Trong trương hợp không trả về dữ liệu nào thì sử dụng `void` (Kiểu trả về của nó là rỗng)  
+- `returnType`: Kiểu dữ liệu trả về, phương thức có thể trả về một giá trị có kiểu dữ liệu nguyên thuỷ như (int, float, char, ...) hoặc kiểu dữ liệu tham chiếu (String,...). Trong trường hợp không trả về dữ liệu nào thì sử dụng `void` (Kiểu trả về của nó là rỗng)  
 - `nameOfMethod`: Tên của phương thức  
 - `parameters`: Các tham số là giá trị được truyền vào của một phương thức. 
 - `method body`: Phần thân của phương thức  
